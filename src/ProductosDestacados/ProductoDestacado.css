@@ -1,0 +1,9 @@
+.p{
+    letter-spacing: -0.2rem;
+}
+
+.titulo{
+    letter-spacing: 0.2rem;
+    font-weight: bold;
+    font-size: 18px;
+}

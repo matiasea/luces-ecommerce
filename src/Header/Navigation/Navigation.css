@@ -1,0 +1,25 @@
+
+.item-ul{   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(156, 153, 149);
+    height: 140px;
+    }
+
+.item{
+    margin-right: 40px;
+    font-size: 15px;
+    color: rgb(253, 251, 251);
+    font-weight: bold;
+    letter-spacing: 0.15rem;
+}
+
+.item-logo{
+    padding-right: 80px;
+
+}
+
+.img-cart{
+    width: 30px;
+}
