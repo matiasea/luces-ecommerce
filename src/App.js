@@ -6,6 +6,7 @@ import Navigation from './Header/Navigation/Navigation';
 import Footer from './Footer/Footer';
 import FilterMarca from './Filter/Marca/FilterMarca';
 import ProductosDestacados from './ProductosDestacados/ProductosDestacados';
+import FilterCategory from './Filter/Categoria/FilterCategory';
 
 function App() {
   return (
@@ -13,8 +14,11 @@ function App() {
       <header>
         <Navigation/>
         <Carrousel/>
+        <div className='App-main'>
         <FilterMarca/>
         <ProductosDestacados/>
+        <FilterCategory/>
+        </div>
         <h1>Luces E-commerce</h1>
         <Footer/>
       </header>

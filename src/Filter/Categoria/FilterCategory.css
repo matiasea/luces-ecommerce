@@ -1,0 +1,78 @@
+.div-category{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 35px;
+}
+
+.p{
+    letter-spacing: -0.2rem;
+}
+
+.titulo{
+    letter-spacing: 0.2rem;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+.div-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+
+}
+
+
+.button-category-lavado{
+    height: 250px;
+	width: 20%;
+    margin: 10px;
+    border-radius: 2px;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+    background-image: url("./img/lavado-button.jpg")
+
+}
+
+.button-category-capilares{
+    height: 250px;
+	width: 20%;
+    margin: 10px;
+    border-radius: 2px;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+    background-image: url("./img/capilares-button.jpg")
+
+}
+
+.button-category-coloracion{
+    height: 250px;
+	width: 20%;
+    margin: 10px;
+    border-radius: 2px;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+    background-image: url("./img/tinturas-button.jpg")
+
+}
+
+.button-category-instrumentos{
+    height: 250px;
+	width: 20%;
+    margin: 10px;
+    border-radius: 2px;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+    background-image: url("./img/instrumentos-button.jpg")
+
+}
+
+ .button-category-capilares:hover{
+    border: 1px rgb(204, 202, 202) solid;
+}
