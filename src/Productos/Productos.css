@@ -1,0 +1,40 @@
+.div-target{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-content: space-around;
+    
+}
+
+.target{
+    margin: 15px;
+    align-items: center;
+    width: 180px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+
+
+p{
+    font-size: 12px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.button-add{
+    width: 180px;
+    height: 25px;
+    background-color: rgb(180, 179, 177);
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+
+.img-prod{
+    width: 180px;
+    height: 200px;
+    border: 1px solid black;
+}

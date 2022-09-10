@@ -1,0 +1,47 @@
+[
+    {
+        "img":"./img/loreal.jpg",
+        "producto" : "LOREAL PROFESSIONNEL",
+        "marca": "LOREAL",
+        "categoria" : "CAPILARES",
+        "descripcion" : "ABSOLUT REPAIR LIPIDIUM GOLD QUINOA SHAMPOO 500 ML",
+        "detalle" : "El shampoo Absolut Repair ofrece la última experiencia profesional de reparación para el cabello dañado. Los resultados se demuestran: El shampoo recupera visiblemente el cabello dañado con un toque muy ligero y suave que resulta en 77% menos daños en la superficie de la fibra . El pelo es mangeable y más brillante después de la rutina de tratamiento incluyendo la máscara Absolut Repair. La fibra se fortalece y restaura gracias a los potentes ingredientes de quinoa dorada y proteínas. Esta fórmula profesional es utilizada y aprobada por peluqueros y parte de su tratamiento en los salones de L Oréal Paris Professionnel en todo el mundo. Para un resultado óptimo de reparación de daños en el cabello, aplicar la rutina de Absolut Repair de cuidado del cabello de tres pasos, que incluye el shampoo nutritivo, la máscara de reparación profunda y el spray 10 en 1 multipropósito. Como resultado: cabello más brillante, suave, resistente, y menos dañado. ",
+        "precio" : "4820"
+    },
+    {
+        "img":"./img/tintura.jpg",
+        "producto" : "TINTURA PARA CABELLO 317",
+        "marca": "317",
+        "categoria" : "COLORACION",
+        "descripcion" : "KIT 317 - Nº 6.66 | ROJO",
+        "detalle" : "Contiene: Sachet/Pouch Coloración Capilar x 50g. Sachet/Pouch Revelador Oxidante x 50ml. Sachet/Pouch Máscara de Flores x 15ml. Par de Guantes",
+        "precio" : "465"
+    },
+    {
+        "img":"./img/shampoo.jpg",
+        "producto" : "SHAMPOO GARNIER FRUCTIS HAIR FOOD AGUACATE",
+        "marca": "GARNIER",
+        "categoria" : "LAVADO",
+        "descripcion" : "300 ML. REFUERZA EL PELO Y REPARA VISIBLEMENTE EL DAÑO HASTA LAS PUNTAS.",
+        "detalle" : "¿Pelo dañado? Fructis Goodbye Daños, con amla y biotina, refuerza el pelo y repara visiblemente el daño hasta las puntas. 84% de las puntas abiertas reparadas. Sin parabenos. Garnier está comprometido con Green Beauty. El shampoo de Goodbye Daños tiene fórmula vegana, es Cruelty Free y sus botellas están hechas con plástico 100% reciclado. Probá la rutina completa de shampoo, acondicionador y crema para peinar.",
+        "precio" : "673"
+    },
+    {
+        "img":"./img/tijera.jpg",
+        "producto" : "TIJERA DE PULIR CON REGULADOR 5 1/2 MANCHESTER",
+        "marca": "MANCHESTER",
+        "categoria" : "INSTRUMENTOS",
+        "descripcion" : "FORMA: RECTA. TIPO: DE PULIR. LONGITUD: 5.5.",
+        "detalle" : "Tijera para corte de cabello realizada en acero inoxidable que otorga una resistencia extrema al desgaste y filo permanente. Su diseño clásico produce una sensación tradicional al cortar.",
+        "precio" : "4042"
+    },
+    {
+        "img":"./img/tijera.jpg",
+        "producto" : "ACEITE REPARADOR DE PUNTAS FIDELITE",
+        "marca": "FIDELITE",
+        "categoria" : "CAPILARES",
+        "descripcion" : "TERMINACION Y MODELADO. VOLUMEN NETO: 30 mL",
+        "detalle" : "Previene y reduce la formación de dobles puntas y repara las ya dañadas instantáneamente. Ayuda a reducir el frizz. Desarrollado para cabellos castigados y rebeldes. Contiene filtros UV que protegen al cabello de los rayos ultravioleta.",
+        "precio" : "1082"
+    }
+]

@@ -1,6 +1,6 @@
 .div-category{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     margin: 35px;
 }
@@ -21,9 +21,7 @@
     justify-content: center;
     align-items: center;
     padding-top: 20px;
-
 }
-
 
 .button-category-lavado{
     height: 250px;
@@ -74,5 +72,17 @@
 }
 
  .button-category-capilares:hover{
+    border: 1px rgb(204, 202, 202) solid;
+}
+
+.button-category-lavado:hover{
+    border: 1px rgb(204, 202, 202) solid;
+}
+
+.button-category-instrumentos:hover{
+    border: 1px rgb(204, 202, 202) solid;
+}
+
+.button-category-coloracion:hover{
     border: 1px rgb(204, 202, 202) solid;
 }

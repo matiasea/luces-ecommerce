@@ -7,6 +7,8 @@ import Footer from './Footer/Footer';
 import FilterMarca from './Filter/Marca/FilterMarca';
 import ProductosDestacados from './ProductosDestacados/ProductosDestacados';
 import FilterCategory from './Filter/Categoria/FilterCategory';
+import Productos from './Productos/Productos';
+import Consultas from './Consultas/Consultas';
 
 function App() {
   return (
@@ -17,9 +19,11 @@ function App() {
         <div className='App-main'>
         <FilterMarca/>
         <ProductosDestacados/>
+        <Productos/>
         <FilterCategory/>
+        <Consultas/>
         </div>
-        <h1>Luces E-commerce</h1>
+        
         <Footer/>
       </header>
     </div>

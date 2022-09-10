@@ -1,0 +1,29 @@
+.div-cons{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin: 35px;
+}
+
+.div-consultas{
+    text-align: center;
+    width: 30%;
+    color: rgb(66, 66, 66);
+    
+}
+
+.img-consultas{
+    margin: 20px;
+
+}
+
+.titulo-consultas{
+    letter-spacing: 0.1rem;
+    color: rgb(66, 66, 66);
+    font-weight: 700;
+}
+
+.parrafo-consultas{
+    font-weight: 400;
+
+}
