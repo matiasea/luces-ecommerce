@@ -19,7 +19,7 @@ const Productos = () => {
             return(
                 <div>
                     <div className='target'>
-                    <CardProduct producto={producto}/>
+                    <CardProduct key={producto.id} producto={producto}/>
                     </div>
                 </div>
             )

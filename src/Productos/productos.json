@@ -1,5 +1,6 @@
 [
     {
+        "id": "001",
         "img":"./img/loreal.jpg",
         "producto" : "LOREAL PROFESSIONNEL",
         "marca": "LOREAL",
@@ -9,6 +10,7 @@
         "precio" : "4820"
     },
     {
+        "id": "002",
         "img":"./img/tintura.jpg",
         "producto" : "TINTURA PARA CABELLO 317",
         "marca": "317",
@@ -18,6 +20,7 @@
         "precio" : "465"
     },
     {
+        "id": "003",
         "img":"./img/shampoo.jpg",
         "producto" : "SHAMPOO GARNIER FRUCTIS HAIR FOOD AGUACATE",
         "marca": "GARNIER",
@@ -27,6 +30,7 @@
         "precio" : "673"
     },
     {
+        "id": "004",
         "img":"./img/tijera.jpg",
         "producto" : "TIJERA DE PULIR CON REGULADOR 5 1/2 MANCHESTER",
         "marca": "MANCHESTER",
@@ -36,6 +40,7 @@
         "precio" : "4042"
     },
     {
+        "id": "005",
         "img":"./img/tijera.jpg",
         "producto" : "ACEITE REPARADOR DE PUNTAS FIDELITE",
         "marca": "FIDELITE",

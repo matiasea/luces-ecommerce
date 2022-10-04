@@ -12,7 +12,9 @@ import Consultas from '../Consultas/Consultas';
 const HomeView = () => {
   return (
     <div>
+      <div>
       <Carrousel/>
+      </div>
         <div className='App-main'>
           <FilterMarca/>
           <ProductosDestacados/>
