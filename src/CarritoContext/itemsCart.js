@@ -10,13 +10,12 @@ const ItemsCart = () => {
         {
         carrito.map( itemCarrito =>{
             return(
-                <div>
-                    <div className='target'>
                     <ItemCart key={itemCarrito.id} itemCarrito={itemCarrito}/>
-                    </div>
-                </div>
+                    
+                   
             )
         }
+  
             )
     }
     </div>

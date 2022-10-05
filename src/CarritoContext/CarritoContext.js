@@ -37,8 +37,6 @@ export const CarritoProvider = ({ children }) => {
       };
     
 
-    
-
     //limpiar Carrito
     const limpiarCarrito = () => setCarrito([]);
 
