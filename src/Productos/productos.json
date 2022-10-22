@@ -48,5 +48,15 @@
         "descripcion" : "TERMINACION Y MODELADO. VOLUMEN NETO: 30 mL",
         "detalle" : "Previene y reduce la formación de dobles puntas y repara las ya dañadas instantáneamente. Ayuda a reducir el frizz. Desarrollado para cabellos castigados y rebeldes. Contiene filtros UV que protegen al cabello de los rayos ultravioleta.",
         "precio" : "1082"
+    },
+    {
+        "id": "006",
+        "img":"",
+        "producto" : "INFAILLIBLE LOREAL",
+        "marca": "LOREAL",
+        "categoria" : "CAPILARES",
+        "descripcion" : "24HS FRESH WEAR 130",
+        "detalle" : "Base de maquillaje ultra hidratante e intransferible, de larga duración a prueba de agua y sudor que dura hasta 24hs. Su textura ligera y fluida brinda una cobertura perfecta dejando tu piel con una sensación de frescura.",
+        "precio" : "6562"
     }
 ]

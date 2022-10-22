@@ -1,4 +1,5 @@
 import productos from "./productos.json"
+import { Link } from "react-router-dom"
 
 import { CarritoContext } from '../CarritoContext/CarritoContext'
 
@@ -23,7 +24,7 @@ const CardProduct = ({producto}) => {
         <div className='img-prod'>{producto.img} </div>        
         <p className='bold'> {producto.producto} </p>
         <p > {producto.descripcion} </p >
-        <p className='bold'> $ {producto.precio} </p>
+        <p className='bold'> $ {producto.precio} </p>        
         <button className='button-add' onClick={agregarAlCarritoFuncion}> AGREGAR EL CARRITO </button>
     </div>  
    

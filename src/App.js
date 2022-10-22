@@ -35,6 +35,7 @@ import AdidasView from './Views/FilterView/AdidasView';
 
 
 
+
 function App() {
   return (
     
@@ -58,6 +59,7 @@ function App() {
             <Route path='/Garnier' element={<GarnierView/>}  />
             <Route path='/Loreal' element={<LorealView/>}  />
             <Route path='/Adidas' element={<AdidasView/>}  />
+           
           </Routes>
         </div>
     </CarritoProvider>
